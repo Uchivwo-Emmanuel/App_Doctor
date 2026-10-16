@@ -1,0 +1,15 @@
+# Local environment secrets (the committed .env.example files are safe templates)
+frontend/.env
+frontend/.env.local
+frontend/.env.*.local
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# Dependencies and generated output
+node_modules/
+dist/
+coverage/
+
+# Local tooling
+.DS_Store

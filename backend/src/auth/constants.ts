@@ -1,0 +1,1 @@
+export const LOCAL_DEMO_USER_ID = "local-demo-user";
